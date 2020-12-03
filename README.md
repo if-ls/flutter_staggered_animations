@@ -4,9 +4,9 @@
 
 ## 动图
 
-| ListView                  | GridView                   | Column                       |
-| ---                       | ---                        | ---                          |
-|![](https://github.com/mobiten/flutter_staggered_animations/blob/master/assets/card_list.gif?raw=true)  | ![](https://github.com/mobiten/flutter_staggered_animations/blob/master/assets/card_grid.gif?raw=true)  | ![](https://github.com/mobiten/flutter_staggered_animations/blob/master/assets/card_column.gif?raw=true)  |
+| ListView                                                     | GridView                                                     | Column                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/if-ls/flutter_staggered_animations/blob/master/assets/card_list.gif?raw=true) | ![](https://github.com/if-ls/flutter_staggered_animations/blob/master/assets/card_grid.gif?raw=true) | ![](https://github.com/if-ls/flutter_staggered_animations/blob/master/assets/card_column.gif?raw=true) |
 
 
 ## 安装
