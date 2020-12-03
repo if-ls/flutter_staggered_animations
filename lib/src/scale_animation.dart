@@ -43,7 +43,7 @@ class ScaleAnimation extends StatelessWidget {
     final _landingAnimation = Tween<double>(begin: scale, end: 1.0).animate(
       CurvedAnimation(
         parent: animation,
-        curve: Interval(0.0, 1.0, curve: Curves.ease),
+        curve: const Interval(0.0, 1.0, curve: Curves.ease),
       ),
     );
 

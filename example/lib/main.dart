@@ -4,9 +4,9 @@ import 'screens/card_column_screen.dart';
 import 'screens/card_grid_screen.dart';
 import 'screens/card_list_screen.dart';
 
-void main() => runApp(App());
+void main() => runApp(MyApp());
 
-class App extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

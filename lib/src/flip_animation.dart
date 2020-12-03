@@ -52,7 +52,7 @@ class FlipAnimation extends StatelessWidget {
     final _flipAnimation = Tween<double>(begin: 0, end: 1).animate(
       CurvedAnimation(
         parent: animation,
-        curve: Interval(0.0, 1.0, curve: Curves.ease),
+        curve: const Interval(0.0, 1.0, curve: Curves.ease),
       ),
     );
 

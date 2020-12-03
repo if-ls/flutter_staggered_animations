@@ -53,7 +53,7 @@ class SlideAnimation extends StatelessWidget {
       return Tween<double>(begin: offset, end: 0.0).animate(
         CurvedAnimation(
           parent: animation,
-          curve: Interval(0.0, 1.0, curve: Curves.ease),
+          curve: const Interval(0.0, 1.0, curve: Curves.ease),
         ),
       );
     }
